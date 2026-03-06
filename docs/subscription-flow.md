@@ -364,8 +364,6 @@
 - `subscription.status: SCHEDULED -> ACTIVE`
 - `subscription.paymentStatus: PENDING -> PAID`
 
-หมายเหตุ: กรณีนี้ไม่ใช่การคิด prorate ใหม่ แต่เป็นการชำระ invoice เดิมที่ค้างฟหกฟหก
-
 ### G) Overage
 
 - สมมติใช้เกิน call out `120` นาที และ rate `1 บาท/นาที`
